@@ -47,5 +47,5 @@ Here are some example commands you can try:
 * "Generate an essay about [topic]"
 ## Credits
 
-ONE was developed by Anagha S Devan. 
+ONE was developed by Anagha S Devan and and is licensed under the MIT License.
 
